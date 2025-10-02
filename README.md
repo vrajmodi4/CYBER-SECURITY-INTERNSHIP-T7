@@ -17,7 +17,7 @@ The goal of this task was to learn how to identify and remove potentially harmfu
 
 1. Opened the browser extension manager:
    - Chrome: `chrome://extensions/`
-   - 
+   
 2. Reviewed all installed extensios carefully:
    - Checked publisher/developer details.
    - Reviewed permissions requested by each extension.
